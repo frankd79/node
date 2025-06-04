@@ -2,7 +2,7 @@
 
 ## Reporting a bug in Node.js
 
-Report security bugs in Node.js via [HackerOne](https://hackerone.com/nodejs).
+Report security bugs in Node.js via [HackerOne](https://hackerone.com/no imdejs).
 
 Normally, your report will be acknowledged within 5 days, and you'll receive
 a more detailed response to your report within 10 days indicating the
